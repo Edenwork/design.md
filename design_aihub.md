@@ -2,13 +2,14 @@
 
 ---
 
-## 📋 專案基本資訊 (Meta Information)
+## 專案基本資訊 (Meta Information)
 
 | 屬性 | 設定值 |
 | --- | --- |
-| **Version** | alpha |
-| **Name** | Platform-Design-Typography-Specification |
+| **Version** | Draft |
+| **Name** | AI-Hub-Design-Typography-Specification |
 | **Description** | 基於專業極簡主義（Professional Minimalism）所制定的字體與排版系統。以 Noto Sans TC 為繁體中文通用核心，並在數字與特定硬體環境下客製化整合 Roboto、-apple-system 與 BlinkMacSystemFont，確保在 Mac OS 與各系統語境下皆能呈現極致流暢、穩重且現代化的黑白技術感排版。 |
+| **Author** | Eden |
 
 ---
 
