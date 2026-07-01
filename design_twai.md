@@ -8,7 +8,7 @@
 | --- | --- |
 | **Version** | v1.0.0-Release |
 | **Name** | AFS-Suite-Design-Operations-Specification |
-| **Description** | 本文件為台智雲 AFS Suite (AI Foundry Service Suite) 全棧主權 AI 平台之 UI/UX 設計系統與前端維運工程規範。旨在融合「企業主權 AI (Sovereign AI)」架構與「專業極簡主義」視覺語言，建立從算力、模型管理到多 Agent 協作平台的標準化前端開發組件與維運防呆指引。 |
+| **Description** | 本文件為台智雲 AFS Suite (AI Foundry Service Suite) 全站主權 AI 平台之 UI/UX 設計系統與前端維運工程規範。旨在融合「企業主權 AI (Sovereign AI)」架構與「專業極簡主義」視覺語言，建立從算力、模型管理到多 Agent 協作平台的標準化前端開發組件與維運防呆指引。 |
 | **Author** | Eden |
 
 ---
@@ -17,7 +17,7 @@
 
 AFS Suite 定位為國家級算力延伸之企業級主權 AI 基礎設施。整體介面依循**專業極簡主義 (Professional Minimalism)**，視覺軸線以純白、深灰、純黑為基底，並引入代表安全、穩重與科技控制權的「**專業藍 (Professional Blue)**」作為系統核心語意強調色。
 
-### 1. 全棧架構色彩系統 (Color Palette Table)
+### 1. 全站架構色彩系統 (Color Palette Table)
 
 為了清晰隔離「一般企業應用」、「多租戶/管理者控制」以及「高風險警示」之操作語境，定義以下全域 CSS 變數：
 
@@ -44,7 +44,7 @@ AFS Suite 定位為國家級算力延伸之企業級主權 AI 基礎設施。整
 
 ---
 
-## 二、 全棧分層前端組件與排版規範 (Tiered UI Component & Typography)
+## 二、 全站分層前端組件與排版規範 (Tiered UI Component & Typography)
 
 ### 1. 字體級距表 (Typography Hierarchy)
 全站字體以 `Noto Sans TC` 為繁體中文核心，在 Mac OS 環境下客製化整合 `-apple-system` 與 `BlinkMacSystemFont`，數字則強制映射 `Roboto`。
