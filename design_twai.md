@@ -63,11 +63,12 @@ AFS Suite 定位為國家級算力延伸之企業級主權 AI 基礎設施。整
 
 ### 2. 四大核心層級模組化 UI 表現
 
-架構分層 (Architecture Tier),核心前端組件與維運實作範疇 (Core Components & Implementation)
-1. AI 應用服務層(AFS Claws Panel),支援多 Agent 工作流配置面板、檢索增強生成 (RAG) 節點、多模型路由選單。
-2. AI 平台服務層(Fabric 多租戶面板 / Hub 快速部署卡片),企業控制與治理核心：多部門/多租戶控制項、模型一鍵部署開關。
-3. 信任與資料服務層(Security Guardrails Display),權限控管狀態、安全沙盒隔離提示、行為審計流水線日誌。
-4. 主權算力服務層(Sovereign Compute Monitor),GPU 雲端資源看板、大型 AIHPC 算力調度可視化 (ECharts Stacked Bar)。
+| 架構分層 (Architecture Tier) | 核心功能與前端實作範疇 (Core Components & Implementation) |
+| :--- | :--- |
+| **1. AI 應用服務層**<br>`(AFS Claws Panel)` | 支援多 Agent 工作流配置面板、檢索增強生成 (RAG) 節點、多模型路由選單。 |
+| **2. AI 平台服務層**<br>`(Fabric 多租戶面板 / Hub 快速部署卡片)` | 企業控制與治理核心：多部門/多租戶控制項、模型一鍵部署開關。 |
+| **3. 信任與資料服務層**<br>`(Security Guardrails Display)` | 權限控管狀態、安全沙盒隔離提示、行為審計流水線日誌。 |
+| **4. 主權算力服務層**<br>`(Sovereign Compute Monitor)` | GPU 雲端資源看板、大型 AIHPC 算力調度可視化 (ECharts Stacked Bar)。 |
    
 
 #### A. AFS Claws 營運面板 (多 Agent 協作與路由)
